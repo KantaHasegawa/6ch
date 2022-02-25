@@ -1,0 +1,13 @@
+.bloop
+.bsp
+project/metals.sbt
+.metals
+.vscode
+project/project/
+project/target/
+target/
+*.class
+metals.sbt
+challenge-app/project/.bloop
+challenge-app/project/project
+challenge-app/project/target
